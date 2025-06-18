@@ -92,11 +92,15 @@ Requisitos:
 
 Passo a passo:
 
-1. Clonar repositório
-2. Abrir um terminal na pasta `PASTA_PESSOAL/rayco-mobile`
+1. Clonar repositórios rayco-api e rayco-mobile
+2. Abrir um terminal na pasta `PASTA_PESSOAL/rayco-api`
 3. Executar o comando `docker-compose up -d`
 4. Após executar todos os comandos espere uns 40s para que o keycloak possa se configurar totalmente
-5. Por fim, basta logar com o usuário email: **admin@provider.com** senha: **admin** e realizar as operações
+5. Rodar o backend a partir de comando ou pela IDE
+6. Abrir um terminal na pasta `PASTA_PESSOAL/rayco-mobile`
+7. Executar o comando npm install e depois npm start
+8. Ler o QR code com seu celular, lembrando que o ExpoGo deve estar instalado
+9. Por fim, basta logar com o usuário email: **admin@provider.com** senha: **admin** e realizar as operações
 
 <a id="pontos-de-melhoria"></a>
 ## 🔧 Pontos de melhoria
