@@ -63,7 +63,7 @@ A imagem abaixo representa o relacionamento entre elas
     Portais com vários sistemas acessados via login único (SSO)
 - Docker
 - PostgreSQL
-
+- React Native
 <a id="regras-de-negocio"></a>
 ## 📌 Regras de Negócio
 Nesta seção vou elucidar as principais regras de negócio da aplicação
