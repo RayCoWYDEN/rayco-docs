@@ -106,3 +106,4 @@ Passo a passo:
 ## 🔧 Pontos de melhoria
 - Criar testes automatizados
 - Melhorar o retorna dos erros na response dos enpoints
+- Criar logica de avaliar e média de preços para o front
