@@ -38,10 +38,10 @@ Src/
     └── Mapper/
 ```
   
-O domínio da minha aplicação é composto por 3 entidades **User**, **University** e **Course**
-A imagem abaixo representa o relacionamento entre as entidades
+O domínio da minha aplicação é composto por 3 principais entidades **User**, **University** e **Course**
+A imagem abaixo representa o relacionamento entre elas
 
-![image](https://github.com/user-attachments/assets/bb230431-063d-4856-af6d-72b0a33a4ff3)
+![image](https://github.com/user-attachments/assets/97ff11dd-2a41-43a3-9d50-50a5deb9d69b)
 
 <a id="tecnologias"></a>
 ## 🛠️ Tecnologias
